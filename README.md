@@ -1,8 +1,10 @@
 <h1 align="center">Akash Gautam</h1>
 
-<h3 align="center">
-  <font color="#9333EA">Full-Stack & AI Engineer</font>
-</h3>
+<p align="center">
+  <a href="https://github.com/akashgautam5245-cmd">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=Full-Stack+%26+AI+Engineer;Building+Enterprise+AI+Platforms;Computer+Vision+%26+Urban+Intelligence;Specializing+in+B.Tech+AI+%26+Data+Science+at+MITS" alt="Typing SVG Animation" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/akash-gautam"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
